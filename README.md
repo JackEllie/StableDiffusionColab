@@ -4,8 +4,7 @@
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JackEllie/StableDiffusionColab/blob/main/%E3%80%8CStable_Diffusion_WebUI_Colab_TW_0531%E3%80%8Dby_jackellie.ipynb)
 
 ## 使用說明
-[如何使用玥語版StableDiffusionColab - HackMD](https://hackmd.io/@carolineforever/ByG9lrAWh)
-> 感謝 可蘿嵐OuO 協助編寫說明
+請參閱文件中的巴哈原文
 
 ## Discord 討論群
 > **JackEllie AI世界**  
