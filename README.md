@@ -1,7 +1,7 @@
 # Stable Diffusion  on Colab
 
 ## 開始使用
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JackEllie/StableDiffusionColab/blob/main/%E3%80%8CStable_Diffusion_WebUI_Colab_TW_0531%E3%80%8Dby_jackellie.ipynb)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aEARTRAzNWBvoT3Bv_pI506zn1HTcH1E?usp=sharing#scrollTo=9zs6WeQuaX1s)
 
 ## 使用說明
 請參閱文件中的巴哈原文
